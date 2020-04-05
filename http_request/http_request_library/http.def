@@ -1,0 +1,3 @@
+LIBRARY http
+EXPORTS
+    http_request
