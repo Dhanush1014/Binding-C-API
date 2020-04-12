@@ -1,0 +1,3 @@
+LIBRARY brotli
+EXPORTS
+    Encode

@@ -1,0 +1,1 @@
+struct Compressed *Encode(const uint8_t * );
