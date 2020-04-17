@@ -1,7 +1,7 @@
-name: Struct_By_value
+name: FFI_Math
 version: 0.0.1
 description: >-
-    Bindings to struct
+    Bindings to Math
 author: Dhanush
 environment:
   sdk: '>=2.6.0 <3.0.0'
