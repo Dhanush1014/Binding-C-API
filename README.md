@@ -23,7 +23,7 @@ http_request requires ```curl``` installed
   Once the native library is built, run ```dart <filename>.dart```
   
 ## Project Motivation<a name="motivation"></a>
-This project was done as a part of prood of concept for GSoC 2020 that has recently come up with Dart organisation.
+This project was done as a part of proof of concept for GSoC 2020 that has recently come up with Dart organisation.
 
 ## File Descriptions <a name="files"></a>
 - [http_request](https://github.com/Dhanush1014/Binding-C-API/tree/master/http_request): make an HTTP request with libcurl
@@ -33,5 +33,5 @@ This project was done as a part of prood of concept for GSoC 2020 that has recen
 - [simpleUser](https://github.com/Dhanush1014/Binding-C-API/tree/master/simpleUser): Struct by value. Error has struct cannot be passed by value. So need to write an C wrapper to access the obejct
 
 ## Results<a name="results"></a>
-The functions illustrated in C can be called from dart using dart:ffi library
+The functions illustrated in C can now be called from dart using dart:ffi library
 
