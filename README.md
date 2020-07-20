@@ -14,9 +14,10 @@ Each project uses CMake to generate a Makefile
   cmake .
   make 
 ```
-The ```make``` command creates a ```libhello.dylib``` (macOS), ```libhello.dll``` (Windows) or ```libhello.so``` (Linux) library file.
+The ```make``` command creates a ```libhttprequest.dylib``` (macOS), ```libhttprequest.dll``` (Windows) or ```libhttprequest.so``` (Linux) library file.
 
 http_request requires ```curl``` installed
+```clang``` can also be used to create dynamic library using ```clang -dynamiclib httprequest.c -o libhttprequest.dylib``` 
 
 ## Running <a name="running ></a>
 
