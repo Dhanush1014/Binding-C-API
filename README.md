@@ -1,4 +1,4 @@
-# Binding-C-API
+# Binding C API
 
 ### Table of Contents
 1. [Installation](#installation)
